@@ -21,7 +21,7 @@ Welcome to my portfolio website! This project showcases my work, skills, and pro
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](path-to-screenshot.png)
+![Portfolio Screenshot](./public//design.png)
 
 ## 📥 Installation
 
